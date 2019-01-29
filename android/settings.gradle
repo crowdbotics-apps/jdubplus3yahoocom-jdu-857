@@ -1,0 +1,3 @@
+rootProject.name = 'jdubplus3yahoocom_jdu_857'
+
+include ':app'
